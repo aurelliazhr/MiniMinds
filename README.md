@@ -1,4 +1,4 @@
-<p align="center"><a href="" target="_blank"><img src="C:\MiniMinds\public\assets\miniminds.png" width="400" alt="MiniMinds Logo"></a></p>
+<p align="center"><a href="" target="_blank"><img src="/public/assets/miniminds.png" width="400" alt="MiniMinds Logo"></a></p>
 
 ## About MiniMinds
 
