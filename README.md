@@ -40,11 +40,11 @@ MiniMinds is a learning website for kindergarten children aged 4-6 years. On thi
    git commit -m "Isi Pesan"
    ```
 3. ``` bash
-   git push origin main
+   git push origin master
    ```
 
 ## How to Pull
 1. ``` bash
-   git pull origin main
+   git pull origin master
    ```
 
